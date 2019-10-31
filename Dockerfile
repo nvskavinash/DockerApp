@@ -1,6 +1,6 @@
 FROM python:3
 
 ADD cloudDocker.py /
-ADD C:\Users\Assignment /home/data
+ADD . /home/data
 
 CMD [ "python", "./cloudDocker.py" ]
