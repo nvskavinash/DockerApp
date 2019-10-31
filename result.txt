@@ -1,4 +1,1 @@
-Grand total of all the words present in all files is: 71
-The document with highest number of words is: result.txt with number of words: 36
-IP Address:192.168.99.1
-Submitted by: Venkata Sai Krishna Avinash Nukala, M12888641
+
